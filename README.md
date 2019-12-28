@@ -4,6 +4,10 @@ This key is based on the M0UKD Capacitive Touch Key described at:
 
 https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/
 
+I modified the PCB to have through hole pads for the wiring.
+
+![OSHPark](oshPark.png)
+
 ## Bill Of Materials
 
 2 - 22K Ohm resistors, SMD 1206, Thick Film (R1, R2)
@@ -32,7 +36,7 @@ X - 22 AWG Stranded Hook-up Wire
 
 ## Assembly
 
-![OSHPark](oshPark.png)
+![Capacitive Touch Paddle Assembly](ctpAssy.png)
 
 ### Power
 
