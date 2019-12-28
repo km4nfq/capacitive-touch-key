@@ -32,6 +32,8 @@ X - 22 AWG Stranded Hook-up Wire
 
 ## Assembly
 
+![OSH Park] (oshPark.png)
+
 ### Power
 
 J6 = +3V Battery (2 AA cells)
