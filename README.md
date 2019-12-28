@@ -35,6 +35,7 @@ X - 22 AWG Stranded Hook-up Wire
 ### Power
 
 J6 = +3V Battery (2 AA cells)
+
 J7 = Battery GND
 
 ### Keyer
