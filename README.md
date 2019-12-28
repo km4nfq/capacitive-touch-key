@@ -59,7 +59,7 @@ C2, C4 = 2.2nF Capacitors (1206)
 
 Q1, Q2 = IRFML8244 MOSFET (SOT-23)
 
-U1, U2 = AT42QT1011 Touch Sensor (6-pin, Dot on Pin 1)
-
 R1, R2 = 22K Ohm Resistors (1206) Thick Film
+
+U1, U2 = AT42QT1011 Touch Sensor (6-pin, Dot on Pin 1)
 
