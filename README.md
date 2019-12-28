@@ -32,7 +32,7 @@ X - 22 AWG Stranded Hook-up Wire
 
 ## Assembly
 
-![OSH Park] (oshPark.png)
+![OSHPark] (oshPark.png)
 
 ### Power
 
