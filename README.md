@@ -6,6 +6,10 @@ https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/
 
 I modified the PCB to have through hole pads for the wiring.
 
+This PCB can be ordered from OSH Park: 
+
+https://oshpark.com/shared_projects/urEWNyZZ
+
 ![OSHPark](oshPark.png)
 
 ## Bill Of Materials
